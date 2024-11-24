@@ -7,7 +7,7 @@
 To run this project follow the following steps :
 
 1. Open command prompt
-2. Type the command 'python -m streamlit run research2.py' or simply 'streamlit run research2.py'
+2. Type the command 'python -m streamlit run interface.py' or simply 'streamlit run interface.py'
 3. A web interface will open in front of you 
 4. Select the conference , year and enter your query.
 5. Press the submit button
