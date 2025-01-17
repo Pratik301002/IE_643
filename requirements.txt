@@ -2,5 +2,7 @@ streamlit
 faiss-cpu
 numpy
 sentence-transformers
-pandas
-aio
+pandas>=1.3.0,<2.0.0  # Adjust based on compatibility
+aiohttp
+beautifulsoup4
+nest_asyncio
