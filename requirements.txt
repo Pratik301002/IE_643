@@ -1,4 +1,6 @@
 streamlit
+faiss-cpu
+numpy
+sentence-transformers
 pandas
-requests
-beautifulsoup4
+aio
